@@ -3,9 +3,9 @@
 <h3 align="center">A passionate frontend developer from Ghana</h3>
 <img align="right" alt="Coding" width="400" src="https://media.licdn.com/dms/image/D4D12AQH4mcQALwgZ7Q/article-cover_image-shrink_600_2000/0/1691989932071?e=2147483647&v=beta&t=uwm5lxFiqURXuzG_xnf9hrIr-_sojSaQ4ggruUAYsmU">
 
-- 🌱 I’m currently learning **NEXT.js**
+- 🌱 I’m currently learning **Django**
 
-- 💬 Ask me about **REACT,REACT NATIVE,CSS**
+- 💬 Ask me about **NEXT.js,REACT,REACT NATIVE,CSS**
 
 - 📫 How to reach me **hayiborkomla@gmail.com**
 
