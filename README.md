@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Django**
 
-- 💬 Ask me about **NEXT.js,REACT,REACT NATIVE,CSS**
+- 💬 Ask me about **NEXT.js,REACT,REACT NATIVE**
 
 - 📫 How to reach me **hayiborkomla@gmail.com**
 
